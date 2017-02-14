@@ -1,2 +1,3 @@
 # uart
-Implementing UART on Elbert, Spartan 3
+
+Implementation of a UART on Elbert V2, Spartan 3 FPGA Prototyping board.
